@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>iVBORw0KGgoAAAANSUhEUgAAAEQAAABECAYAAAA4E5OyAAAJYElEQVR4AeyaB4xUVRSGf3ZREVFXxIaKiigIKsao0WgMMURBUQkiibGAotjBrhhFUbEhSrDXWFBiAQv2WLFFTYw1KjbsWFl6B7//zc7Mm7cz6/Rd1zc5/zv33nffLf+75dzzpkbxL4OBmJAMOqSYkJiQCAORaDxCYkIiDESi8QiJCYkwEInGIyQmJMJAJFrwCFkttQWdQS+wM9ipynC93amzK3A71ke3jfSr6GhNIU9S8Zrk7w2uAM+BGeDVKuIV6noeTAV3gsvAcWBv2rY1MDltiBcteRNCZc67LTWNA8eCLcH6YMMqohN1bQF6gf3AcDABPAFuAceAHWhrR3RR4k7m++A6ZNwXHACqI2142TU00Tp3jWRSnaT+wOQ8gj4RUrqBDoQLEmrLO397cvYE1ZHaWqkjL7pbN6kXA6InVVv36CF16SJtyMBs1y7aljVIILMuQd8PDoOUTdB5S03eOaXl5P0LVEfc2d12k44+Wjr/fGkCL//BB6WHHpImTZJGjZL695dM0MYbS2t6eUs1bS1Ce4EbwGhI8fqS18JbyAiZT+Gvg9mg8rJ4sfTOO9LNN0tjx6YJmTVL2m47acQIafJkaSrr6wUXSH36SJ07S20z+r0BDSWjvL70hpiMm9xrJDWNUnIkMFE9Qj7ithfVb9F/A5OUxALixkK0sQht0DMtI1yYrFolzZsnzYb/r7+WXnpJGj9eGjJEGjBAuvJK6b33FEyrkSOlR1g6Lr9c2nNPqa4uXNfaRPqCG8GukFKLzil5E+ISIKUefQ84AfDqxCsKwDjWFNIeBrRMvDY9Ttir/5Po18D3oHBieChDVqyQvvtOwbQZNEgyCR98IHnhHTZMuu8+adgwabPNFPp5bWH+yVOoVyi9UbAgQvw0pCwCr4Ax4JQGnIQeAY4Hx4Gh4ChwJDiC52i5eI16izA94loOmTNHuuMOaehQaQrv4/ffpa5dpUsvlcaMkbbaSgFRCn4mZVdC4xglm6KzSsGEZC3lXxIhxVPoabKdDb4C5ROPmM8/l7yOjGM2f89AXHfdBEkTJ0rbbBOuqx2RfcC5kGIzgmCmVIUQVwkpLApiRQymmMr+q6+X7mE2jxolzZwprcVGs//+0jXXSJtmDIg66h4M+kEKzSIUkqoR0lDnUrRJQVVAFrGGP49lb1K8ELfHdOrbV8Ho8ahJV8l2FEzhTumkRKjahPDatEWi6gpdl8L5G29Io0dLv/0m1dVJgxkQAwdKtnoT1Xr7xcLTUdFRUjVCqNiL2va05zBQWbEN8ypnTm/T87EKvON4a7adkq4ZU1fs4eqYToKzcIRG14AOYKMGdEKXA94Dd6cuJrj2QFdevAM9jBUwfXqiLi+uw4fT49QYqOWGR2s/dEpSd+m43yAmoMyad4NzyHVWGXAmZfhswf4ob8FEqyS//CJNnChZ+1w0cKBkMz9dvUfHgfTdUyhIDQhpSLDBgimou7nD4UHnoZmIKhUXUs6JwOWjqii2dr/FqL7rLslhk2ErN90EVl31JuqRgmIABVdpI/Qp4GDQuuRvThjTpkk//ijV1Un74UbJPO9gtMgGW9DvYIQQ8vZzKLr1yWrGv89DPuuszbHGboRNMjwC7el0TxBIjQIlE7NOItgKr15gX3hBWrJEsj3SvXu4kzYF7P0L0kyEAz6RcqR0sBXC5v0PP0gffijZz2IHU7qb3ky8uAYpSUI4FQm7V38Eqa3xMneuNAOfuB1Jm28e7qE5SM0OR9RG4iAg3FFijxInJdm8bgqcoJQPeC0qBr9K8oEQVSZZSHGffSbZNelpky7WHHiUBCmOBIE2kt2D1xFhs9ap6NOAd55k2HHD8dO5F4WP9za8kkjGzyBvMs3a8TNJi+Js0mz3OJ3zu+xH8cgluQyyDFfMTz9J9ptk7jKsujLkX4oQRyBlGZgJngXPgOdAMuy44fh00qN4irQnQ3D8CeKPA+skHJ9GWhSPkTYVON1GnMm/nnbhNuNaqngdqa+XrFeuDJfmUzirbSIpg5BEUsu4QgzeH3ka249SnkaZDDuRjHSJZocFJpHQYglJNE9YVeI83xArVS3HLWwDzUiXxVxSamq2dELcbA9p69LgtcPm+6+s13YgpUvzdEmZHC2dkPVot0/JqBLFu4ttkFmzJDuP0sX5S4G/JgQpLZIQlny7Ieyv2JtWHglKFxPiEfLmm9ICcxAUaYc3Q0afBjEuTRJCw2qB/SHbov0XhO3R2eB7xaAH5TUC7fIng5PRfK6Tz1kESxQvqLZW37LjP1WWd7AZLODWQWJOQmiojRUfemwb3EvuxwAeFxn+9hLFo9wPw/mj8PeaKPz9huOoDN+z9vccvjqJ7wiUWg7xVusPXz7PJMqji8LHqKcS0cQ1KyHkdLqdRVeRzf6QfdA7gl0aYB9CGDuTvlMEzh+FfSJhmHD7NnfgWcNxa3vYSKqo+PzGFy69H67FHQ/Hk2EvZv2JHARao/DO5SPF3UwXh1N9rJFS4XDAhHhUhNNaU9ir6muQgSc6s1u5RohZw5+fmbmVxLDO5G3W33kbdSkXITab8agotfo2evK/mWAz/RuafhOjg897hCKSlRAye0iZEO8oNmttzZnZfGBT2HDeSHXNGrXFO5sWTKZ/7hfBxpKVEGfjIXz48g5zNXH/45DPYfK/AHPhZfIZvm/tv0Dg8pbfCreaVUyGnV82C/xlIWdjchLiJyDlL+C5xrdADSDNjuhs8L0w7L03RvIMn864Np/4hfxM9Q+Ai+iPRy/B7NIkIclHKGQVWAyWhsF9F94WbbvBjtok/J3Dab7H7WYTT9svqd3/HrqQtuM2I9aE5EVItufZhihfG3DPI8Ym9q2Eb2qAG+DwJOJ8DOFaXfEU8cbwLtVeTEPHA5NDtGkpmhCKbQf6ABNxOLofsCFneLpYdyGtmmIivDPiPNXtVHwCRPgoQDA/KYWQDlTho7mNOILNJgxW2WbybuhTq/+f6r94jYaMLwptVSmELKKyT4C3Mp8L3Chvz5WG6/Uo+JO68RoHXwleJHwtOAYSTgdvEy5KiiaESr1AeTseS832e7pRjlcSz1CXT8f+96M/mZxH3P8oGEx7JgBboCQVL0UT4ippwBxwGxgCDgGDKgx33P9uPJV6xoEp4GPg3c5NKhklEVJy7S2wgJiQyEsxIZGk/3c0JiTy/mNCYkIiDESi8QiJCYkwEInGIyQmJMJAJPoPAAAA//9yRhFoAAAABklEQVQDAL9r/KdHSomZAAAAAElFTkSuQmCC</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>沃尔特科技云寄售</string>
+			<key>PayloadDescription</key>
+			<string>Configuration Payload description</string>
+			<key>PayloadDisplayName</key>
+			<string>PakePayload</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-C9B8572F1350</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E0736409-C08F-4F54-86DA-C9B8572F1350</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://hack.wetcs.cn</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>沃尔特科技云寄售</string>
+	<key>PayloadIdentifier</key>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-C9B8572F1350</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-C9B8572F1350</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
